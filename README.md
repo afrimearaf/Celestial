@@ -1,2 +1,2 @@
-# Celestial
- Digital company portfolio website template
+# Celestial | Digital company portfolio website template
+ Celestial is a trendy portfolio website template for businesses. Create a website if you want to broaden your reach and present new business opportunities. You can now save time and efforts with Celestial since the design portion of your web presence is ready to go. You also don't have to worry about the technical features of a page. Celestial, in other words, adheres to all contemporary online trends, such as responsive one-page layouts and browser compatibility with scroll animations.
